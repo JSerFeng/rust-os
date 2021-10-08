@@ -1,0 +1,3 @@
+# rust-os
+build an tiny operating system with rust!
+WIP...
