@@ -1,3 +1,0 @@
-cargo:rerun-if-changed=build.rs
-cargo:compiler-rt=C:\Users\86156\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\compiler_builtins-0.1.49\compiler-rt
-cargo:rustc-cfg=feature="unstable"
